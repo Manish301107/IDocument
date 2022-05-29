@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +10,7 @@
         }
         .heading {
             margin: 15vw 7vw;
-            font-size:7vw;
+            font-size:15vw;
             font-family:fantasy;
         }
         p {
