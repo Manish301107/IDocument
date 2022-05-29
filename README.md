@@ -46,8 +46,6 @@
     
        <a href="IDindex.html"><button>GET</button></a>
        
-       <script>
-           
-       </script>
+       
 </body>
 </html>
