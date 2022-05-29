@@ -40,7 +40,7 @@
 <body>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Ay9rHuLoXKzVHp0TFw1uoI9TPj5paDxdMg&usqp=CAU">
     
-    <h2 class="heading">Get's Your Document</h2>
+    <h1 class="heading">Get's Your Document</h1>
     <p>Fast, Safe & Secure</p><br>
     
        <a href="IDindex.html"><button>GET</button></a>
