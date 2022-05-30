@@ -15,7 +15,9 @@
             font-family:fantasy;
         }
         p {
-            margin: -12vw 5.5vw;
+            margin-top: -14vw;
+            margin-left: 5.5vw;
+            
             font-size:3.5vw;
             color:gray;
         }
