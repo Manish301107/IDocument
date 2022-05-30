@@ -4,17 +4,18 @@
     <title>WELCOME | IDocument</title>
     <style>
         img {
-            margin-top:-5vw;
+            margin-top:-15vw;
             height: 90vw;
             width: 100%;
         }
         .heading {
-            margin: 15vw 7vw;
+            margin-top: 15vw;
+            margin-left: 5vw;
             font-size:50px;
             font-family:fantasy;
         }
         p {
-            margin: -12vw 7.5vw;
+            margin: -12vw 5.5vw;
             font-size:3.5vw;
             color:gray;
         }
