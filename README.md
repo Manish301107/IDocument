@@ -19,7 +19,7 @@
             font-family:fantasy;
         }
         p {
-            margin-top: -14vw;
+            margin-top: -16vw;
             margin-left: 5.5vw;
             
             font-size:3.5vw;
@@ -28,8 +28,8 @@
         button {
             height: 12vw;
             width: 85vw;
-            margin-top:15vw;
-            margin-left:5vw;
+            margin-top:12vw;
+            margin-left:3.5vw;
             margin-bottom:2vw;
             border-radius: 5vw;
             font-size:7vw;
