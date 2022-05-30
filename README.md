@@ -4,12 +4,13 @@
     <title>WELCOME | IDocument</title>
     <style>
         img {
+            margin-top:-5vw;
             height: 90vw;
             width: 100%;
         }
         .heading {
             margin: 15vw 7vw;
-            font-size:65px;
+            font-size:7vw;
             font-family:fantasy;
         }
         p {
@@ -34,6 +35,9 @@
             text-decoration:none;
             color:white;
         }
+        hr {
+            background-color:transparent;
+        } 
     </style>
 </head>
 <body>
