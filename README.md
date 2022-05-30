@@ -10,7 +10,7 @@
         }
         .heading {
             margin: 15vw 7vw;
-            font-size:7vw;
+            font-size:50px;
             font-family:fantasy;
         }
         p {
@@ -21,7 +21,7 @@
         button {
             height: 12vw;
             width: 85vw;
-            margin-top:20vw;
+            margin-top:15vw;
             margin-left:5vw;
             margin-bottom:10vw;
             border-radius: 5vw;
@@ -43,7 +43,7 @@
 <body>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Ay9rHuLoXKzVHp0TFw1uoI9TPj5paDxdMg&usqp=CAU">
     
-    <h1 class="heading">Get's Your Document</h1>
+    <h2 class="heading">Get's Your Document</h2>
     <p>Fast, Safe & Secure</p><br>
     
        <a href="IDindex.html"><button>GET</button></a>
