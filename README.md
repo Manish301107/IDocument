@@ -3,6 +3,10 @@
     <meta charset="UTF-8">
     <title>WELCOME | IDocument</title>
     <style>
+        * {
+            margin:0vw;
+        
+        }
         img {
             margin-top:-15vw;
             height: 90vw;
@@ -26,7 +30,7 @@
             width: 85vw;
             margin-top:15vw;
             margin-left:5vw;
-            margin-bottom:10vw;
+            margin-bottom:2vw;
             border-radius: 5vw;
             font-size:7vw;
             color:white;
