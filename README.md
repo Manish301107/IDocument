@@ -10,7 +10,7 @@
         }
         .heading {
             margin: 15vw 7vw;
-            font-size:15vw;
+            font-size:50%;
             font-family:fantasy;
         }
         p {
