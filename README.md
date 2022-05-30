@@ -4,13 +4,12 @@
     <title>WELCOME | IDocument</title>
     <style>
         img {
-            margin-top:15vw;
             height: 90vw;
             width: 100%;
         }
         .heading {
             margin: 15vw 7vw;
-            font-size:50%;
+            font-size:65px;
             font-family:fantasy;
         }
         p {
@@ -21,7 +20,7 @@
         button {
             height: 12vw;
             width: 85vw;
-            margin-top:25vw;
+            margin-top:20vw;
             margin-left:5vw;
             margin-bottom:10vw;
             border-radius: 5vw;
