@@ -32,11 +32,12 @@
             margin-left:3.5vw;
             margin-bottom:2vw;
             border-radius: 5vw;
-            font-size:7vw;
+            font-size:6vw;
             color:white;
             border:0;
-            background: orange;
+            background: #ffb300;
             font-family: 'Courier New', monospace;
+            box-shadow:0vw 1vw 10vw -1vw #fffc3f;
         }
         a {
             text-decoration:none;
